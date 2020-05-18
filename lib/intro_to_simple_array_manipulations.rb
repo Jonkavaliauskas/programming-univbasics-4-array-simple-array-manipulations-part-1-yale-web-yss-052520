@@ -9,3 +9,11 @@ end
 def
   array.pop()
 end
+
+def
+  array.pop(2)
+end
+
+def
+  array.shift()
+end
