@@ -17,3 +17,7 @@ end
 def
   array.shift()
 end
+
+def
+  array.shift(2)
+end
